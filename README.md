@@ -6,8 +6,9 @@ This repository provides the documentation and download instructions for the **M
 
 Due to its large scale, the complete dataset is compressed as a `.tar.gz` file and hosted on Baidu Netdisk.
 
-- **Baidu Netdisk Link:** https://pan.baidu.com/s/1rLvLVCXLG6H1wHzsMJHwsw 
-- **Access Code:** 3ywi
+- **Baidu Netdisk Link:** https://pan.baidu.com/s/1RioTJ38KOwGEwbUD43axIw 
+- **Access Code:** ez2j
+
 
 After downloading the `MASP.tar.gz` archive, you can extract it to your preferred directory using the following command:
 
