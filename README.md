@@ -59,7 +59,7 @@ MASP/
 
 Each entry consists of three files:
 
-**1. `meta.json**`: Contains the semantic details, mapping a set of user requirements to the specific service pattern.
+**1. `meta.json`**: Contains the semantic details, mapping a set of user requirements to the specific service pattern.
 
 ```json
 {
@@ -83,7 +83,7 @@ Each entry consists of three files:
 
 *(Note: If your actual JSON keys use `"query"` instead of `"requirement"`, make sure to adjust your parsing scripts accordingly, though the conceptual terminology remains "requirement".)*
 
-**2. `meta_descriptions.json**`: Contains text descriptions of the workflow at varying levels of granularity—ranging from a brief title (Description1) to a highly detailed, step-by-step narrative of the entire multi-agent collaborative process (Description5).
+**2. `meta_descriptions.json`**: Contains text descriptions of the workflow at varying levels.
 
 ```json
 {
