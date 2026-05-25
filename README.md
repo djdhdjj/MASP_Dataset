@@ -150,5 +150,5 @@ If you find this dataset useful in your research, please consider citing our pap
 
 ## 📄 License
 
-This dataset is licensed under the [MIT License](https://opensource.org/licenses/MIT) (or specify your preferred license, e.g., CC-BY-4.0).
+This dataset is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
