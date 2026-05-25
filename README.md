@@ -82,7 +82,6 @@ Each entry consists of three files:
 
 ```
 
-*(Note: If your actual JSON keys use `"query"` instead of `"requirement"`, make sure to adjust your parsing scripts accordingly, though the conceptual terminology remains "requirement".)*
 
 **2. `meta_descriptions.json`**: Contains text descriptions of the workflow at varying levels.
 
@@ -98,7 +97,7 @@ Each entry consists of three files:
 
 ```
 
-**3. `pattern.bpmn**`: An XML-based Business Process Model and Notation (BPMN) file that formally defines the multi-role collaborative structure, execution nodes, and information flows for the MASP.
+**3. `pattern.bpmn`**: An XML-based Business Process Model and Notation (BPMN) file that formally defines the multi-role collaborative structure, execution nodes, and information flows for the MASP.
 
 ## 🚀 Usage
 
